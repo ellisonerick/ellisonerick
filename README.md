@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá! Eu sou Ellison</h2>
+<h2 align="left">👋 Olá! Meu nome é Ellison</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Status</h2>
+<h2 align="left">📊 Stats</h2>
 
 ###
 
