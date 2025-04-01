@@ -1,12 +1,12 @@
-<h2 align="left">About me</h2>
+<h2 align="left">👋 Olá! Eu sou Ellison</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de novos desafios! Atualmente, estou aprimorando meus conhecimentos em desenvolvimento full-stack, focando nas seguintes tecnologias:</p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">🚀 Tecnologias que estou estudando e desenvolvendo:</h2>
 
 ###
 
@@ -48,5 +48,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">💡 Fique à vontade para explorar meus projetos e contribuir! 🚀</p>
 
 ###
